@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/brend/Source/Repos/HCI-Group-5-Project/ETSU Housing/Pages/CreateAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/brend/Source/Repos/HCI-Group-5-Project/ETSU Housing/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,8 +28,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/brend/Source/Repos/HCI-Group-5-Project/ETSU Housing/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brend/Source/Repos/HCI-Group-5-Project/ETSU Housing/Pages/PasswordReset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFzc3dvcmRSZXNldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/brend/Source/Repos/HCI-Group-5-Project/ETSU Housing/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brend/Source/Repos/HCI-Group-5-Project/ETSU Housing/Pages/RoomAvailable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbUF2YWlsYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brend/Source/Repos/HCI-Group-5-Project/ETSU Housing/Pages/RoomNeeded.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbU5lZWRlZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/brend/Source/Repos/HCI-Group-5-Project/ETSU Housing/Pages/Shared/_ValidationScriptsPartial.cshtml]

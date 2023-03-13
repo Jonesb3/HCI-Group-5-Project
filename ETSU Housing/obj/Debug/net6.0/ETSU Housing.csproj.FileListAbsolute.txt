@@ -1,0 +1,31 @@
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\bin\Debug\net6.0\appsettings.json
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\bin\Debug\net6.0\ETSU Housing.staticwebassets.runtime.json
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\bin\Debug\net6.0\ETSU Housing.exe
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\bin\Debug\net6.0\ETSU Housing.deps.json
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\bin\Debug\net6.0\ETSU Housing.runtimeconfig.json
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\bin\Debug\net6.0\ETSU Housing.dll
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\bin\Debug\net6.0\ETSU Housing.pdb
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.csproj.AssemblyReference.cache
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.AssemblyInfoInputs.cache
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.AssemblyInfo.cs
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.csproj.CoreCompileInputs.cache
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.RazorAssemblyInfo.cache
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.RazorAssemblyInfo.cs
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\staticwebassets\msbuild.ETSU Housing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\staticwebassets\msbuild.build.ETSU Housing.props
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ETSU Housing.props
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ETSU Housing.props
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\scopedcss\bundle\ETSU Housing.styles.css
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\scopedcss\projectbundle\ETSU Housing.bundle.scp.css
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.dll
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\refint\ETSU Housing.dll
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.pdb
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ETSU Housing.genruntimeconfig.cache
+C:\Users\brend\Source\Repos\HCI-Group-5-Project\ETSU Housing\obj\Debug\net6.0\ref\ETSU Housing.dll

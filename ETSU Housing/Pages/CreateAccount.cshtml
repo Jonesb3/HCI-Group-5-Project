@@ -1,0 +1,21 @@
+﻿@page
+@model ETSU_Housing.Pages.CreateAccountModel
+@{
+    ViewData["Title"] = "Create Account";
+}
+
+<div>
+    <h2>Create an Account</h2>
+    <form>
+        <label>ETSU Student ID</label><br />
+        <input type="number" id="enumber" name="enumber" /><br />
+        <label>Email</label><br />
+        <input type="email" id="email" name="email" /><br />
+        <label>Password</label><br />
+        <input type="password" id="password" name="password" /><br />
+        <input type="checkbox" id="agreement" name="agreement" />
+        <label>I accept the <a class="" asp-area="" asp-page="/Terms">Terms of Use</a> & <a class="" asp-area="" asp-page="/Privacy">Privacy Policy</a></label><br />
+        <input type="submit" value="SIGN UP" />
+    </form><br />
+    <p>Already have an account? <a class="" asp-area="" asp-page="/Login">Log In</a></p>
+</div>

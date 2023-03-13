@@ -1,0 +1,20 @@
+﻿@page
+@model ETSU_Housing.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div>
+    <h2>Login</h2>
+    <form>
+        <label>Email</label><br />
+        <input type="email" id="email" name="email"/><br />
+        <label>Password</label><br />
+        <input type="password" id="password" name="password" /><br />
+        <input type="checkbox" id="agreement" name="agreement" />
+        <label>I accept the <a class="" asp-area="" asp-page="/Terms">Terms of Use</a> & <a class="" asp-area="" asp-page="/Privacy">Privacy Policy</a></label><br />
+        <input type="submit" value="Log In"/>
+    </form><br />
+    <p>Don't have an account yet? <a class="" asp-area="" asp-page="/CreateAccount">Create an Account</a></p>
+    <p>Forgot password? <a class="" asp-area="" asp-page="/PasswordReset">Reset password</a></p>
+</div>

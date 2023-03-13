@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brend\\source\\repos\\ETSU Housing\\ETSU Housing\\ETSU Housing.csproj",
+      "projectUniqueName": "C:\\Users\\brend\\Source\\Repos\\HCI-Group-5-Project\\ETSU Housing\\ETSU Housing.csproj",
       "projectName": "ETSU Housing",
-      "projectPath": "C:\\Users\\brend\\source\\repos\\ETSU Housing\\ETSU Housing\\ETSU Housing.csproj",
+      "projectPath": "C:\\Users\\brend\\Source\\Repos\\HCI-Group-5-Project\\ETSU Housing\\ETSU Housing.csproj",
       "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brend\\source\\repos\\ETSU Housing\\ETSU Housing\\obj\\",
+      "outputPath": "C:\\Users\\brend\\Source\\Repos\\HCI-Group-5-Project\\ETSU Housing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",

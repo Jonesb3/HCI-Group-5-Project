@@ -1,0 +1,32 @@
+﻿@page
+@model ETSU_Housing.Pages.RoomAvailableModel
+@{
+    ViewData["Title"] = "Room Available";
+}
+
+<div>
+    <h2>Room Available</h2>
+    <form>
+        <label>Rent</label><br />
+        <input type="number" id="rent" name="rent"/><br />
+        <label>Gender</label><br />
+        <input type="text" id="gender" name="gender"/><br />
+        <label>Bedrooms</label><br />
+        <input type="number" id="bedrooms" name="bedrooms"/><br />
+        <label>How many roommates</label><br />
+        <input type="number" id="roommates" name="roommates"/><br />
+        <label>Address</label><br />
+        <input type="text" id="address" name="address"/><br />
+        <label>Furnished</label><br />
+        <select id="furnished" name="furnished">
+            <option value="fully">Fully furnished</option>
+            <option value="partially">Partially furnished</option>
+            <option value="not">Not furnished</option>
+        </select><br />
+        <label>Description</label><br />
+        <input type="text" id="description" name="description" size="50"/><br />
+        <input type="checkbox" id="agreement" name="agreement" />
+        <label>I accept the <a class="" asp-area="" asp-page="/Terms">Terms of Use</a> & <a class="" asp-area="" asp-page="/Privacy">Privacy Policy</a></label><br />
+        <input type="submit" value="Post" />
+    </form>
+</div>
